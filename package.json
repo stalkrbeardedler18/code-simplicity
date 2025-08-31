@@ -1,0 +1,12 @@
+{
+  "name": "code-simplicity",
+  "version": "1.0.0",
+  "description": "A library for simplifying code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'No tests specified' && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
