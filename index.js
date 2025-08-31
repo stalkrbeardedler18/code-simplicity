@@ -1,4 +1,4 @@
-const { simplifyCode } = require('./lib/simplify');
+const simplifyCode = require('./lib/simplify').simplifyCode;
 
 module.exports = {
   simplifyCode
